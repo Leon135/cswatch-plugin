@@ -4,6 +4,10 @@ This plugin adds a simple button under your Steam profile that redirects you to 
 
 It is based on the work of **@TOR968**—massive thanks to him for his contributions and inspiration!
 
+## Prerequisites
+
+- [Millennium](https://steambrew.app/)
+
 ## Screenshots
 
 ![Profile screenshot](screenshots/profile_screenshot.png)
