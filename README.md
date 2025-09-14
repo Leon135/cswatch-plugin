@@ -13,3 +13,7 @@ It is based on the work of **@TOR968**—massive thanks to him for his contribut
 ![Profile screenshot](screenshots/profile_screenshot.png)
 
 ![CSWatCH screenshot](screenshots/cswatsh_screenshot.png)
+
+## License
+
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
