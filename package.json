@@ -1,7 +1,7 @@
 {
 	"scripts": {
-		"dev": "millennium-ttc --build dev",
-		"build": "millennium-ttc --build prod"
+		"dev": "millennium-ttc --build dev && rsync -av --exclude='node_modules/' ./ '/mnt/c/Program Files (x86)/Steam/plugins/cswatch-plugin/'",
+		"build": "millennium-ttc --build prod && rsync -av --exclude='node_modules/' ./ '/mnt/c/Program Files (x86)/Steam/plugins/cswatch-plugin/'"
 	},
 	"devDependencies": {
 		"@babel/preset-env": "^7.26.0",
@@ -12,12 +12,12 @@
 		"@types/webpack": "^5.28.5"
 	},
 	"type": "module",
-	"name": "millennium-plugin",
+	"name": "cswatch-plugin",
+	"description": "Steam Millennium plugin adding button redirecting to CSWAT.CH under profile.",
 	"version": "1.0.0",
-	"description": "A template plugin for millennium",
-	"main": "./frontend/index.jsx",
-	"author": "Millennium",
+	"author": "Leon135",
 	"license": "MIT",
+	"main": "./frontend/index.jsx",
 	"dependencies": {
 		"@steambrew/api": "^5.2.4",
 		"@steambrew/webkit": "^5.3.3",
