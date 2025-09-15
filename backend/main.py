@@ -5,26 +5,26 @@ from logger import logger
 class Plugin:
     def _load(self) -> None:
         try:
-            logger.info("Leetify Extension: Starting plugin initialization...")
+            logger.info("cswatch plugin: Starting plugin initialization...")
             Millennium.ready()
-            logger.info("Leetify Extension: Plugin loaded successfully")
+            logger.info("cswatch plugin: Plugin loaded successfully")
         except Exception as e:
-            logger.error(f"Leetify Extension: Failed to load plugin: {str(e)}")
+            logger.error(f"cswatch plugin: Failed to load plugin: {str(e)}")
             raise
 
     def _front_end_loaded(self) -> None:
         try:
-            logger.info("Leetify Extension: Frontend loaded successfully")
+            logger.info("cswatch plugin: Frontend loaded successfully")
             # Add any frontend-specific initialization logic here if needed
         except Exception as e:
             logger.error(
-                f"Leetify Extension: Error during frontend load: {str(e)}")
+                f"cswatch plugin: Error during frontend load: {str(e)}")
 
     def _unload(self) -> None:
         try:
-            logger.info("Leetify Extension: Plugin unloading...")
+            logger.info("cswatch plugin: Plugin unloading...")
             # Add any cleanup logic here if needed
-            logger.info("Leetify Extension: Plugin unloaded successfully")
+            logger.info("cswatch plugin: Plugin unloaded successfully")
         except Exception as e:
             logger.error(
-                f"Leetify Extension: Error during plugin unload: {str(e)}")
+                f"cswatch plugin: Error during plugin unload: {str(e)}")

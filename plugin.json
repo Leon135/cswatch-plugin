@@ -2,8 +2,8 @@
 	"$schema": "https://raw.githubusercontent.com/SteamClientHomebrew/Millennium/main/src/sys/plugin-schema.json",
 
 	"name": "cswatch-plugin",
-	"common_name": "CSWatCH Plugin",
-	"description": "Steam Millennium plugin adding button redirecting to CSWAT.CH under profile.",
+	"common_name": "CSWatch Plugin",
+	"description": "Steam Millennium plugin adding button redirecting to CSWat.ch under profile.",
 	"version": "1.0.0",
 	"author": "Leon135"
 }

@@ -13,7 +13,7 @@
 	},
 	"type": "module",
 	"name": "cswatch-plugin",
-	"description": "Steam Millennium plugin adding button redirecting to CSWAT.CH under profile.",
+	"description": "Steam Millennium plugin adding button redirecting to CSWat.ch under profile.",
 	"version": "1.0.0",
 	"author": "Leon135",
 	"license": "MIT",

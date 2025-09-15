@@ -1,4 +1,4 @@
-# CSWat.CH Plugin
+# CSWat.ch Plugin
 
 This plugin adds a simple button under your Steam profile that redirects you to the [cswat.ch](https://cswat.ch) website.
 
@@ -12,7 +12,7 @@ It is based on the work of **@TOR968**—massive thanks to him for his contribut
 
 ![Profile screenshot](screenshots/profile_screenshot.png)
 
-![CSWatCH screenshot](screenshots/cswatsh_screenshot.png)
+![CSWatch screenshot](screenshots/cswatsh_screenshot.png)
 
 ## License
 
