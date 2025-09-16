@@ -12,7 +12,7 @@ It is based on the work of **@TOR968**—massive thanks to him for his contribut
 
 ![Profile screenshot](screenshots/profile_screenshot.png)
 
-![CSWatch screenshot](screenshots/cswatsh_screenshot.png)
+![CSWatch screenshot](screenshots/cswatch_screenshot.png)
 
 ## License
 
