@@ -1,7 +1,7 @@
 {
 	"scripts": {
-		"dev": "millennium-ttc --build dev && rsync -av --exclude='node_modules/' ./ '/mnt/c/Program Files (x86)/Steam/plugins/cswatch-plugin/'",
-		"build": "millennium-ttc --build prod && rsync -av --exclude='node_modules/' ./ '/mnt/c/Program Files (x86)/Steam/plugins/cswatch-plugin/'"
+		"dev": "millennium-ttc --build dev",
+		"build": "millennium-ttc --build prod"
 	},
 	"devDependencies": {
 		"@babel/preset-env": "^7.26.0",
