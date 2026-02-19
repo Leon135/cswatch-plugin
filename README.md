@@ -21,8 +21,8 @@ It is based on the work of **@TOR968**—massive thanks to him for his contribut
 
 ## Built with
 
-- [Steam Millenium](https://github.com/SteamClientHomebrew/Millennium)
-- [CSWatch](https://cswat.ch)
+- [Steam Millenium](https://github.com/SteamClientHomebrew/Millennium) - modding framework for Steam client
+- [CSWatch](https://cswat.ch) - website with stats for CS2 players
 - [Tor968's original plugin](https://github.com/TOR968/leetify-extension)
 
 
