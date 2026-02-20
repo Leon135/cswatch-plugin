@@ -29,3 +29,7 @@ It is based on the work of **@TOR968**—massive thanks to him for his contribut
 ## License
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+
+---
+
+**Built with 💜 by [Leon135](https://leon135.xyz)**
