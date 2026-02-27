@@ -5,5 +5,7 @@
 	"common_name": "CSWatch Plugin",
 	"description": "Steam Millennium plugin adding button redirecting to CSWat.ch under profile.",
 	"version": "1.0.0",
-	"author": "Leon135"
+	"author": "Leon135",
+	"backendType": "lua"
 }
+
