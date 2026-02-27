@@ -27,7 +27,8 @@ It is based on the work of **@TOR968**—massive thanks to him for his contribut
 
 ## License
 
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+This project is licensed under the MIT License.
+See [LICENSE](LICENSE) for details.
 
 ---
 
