@@ -25,7 +25,6 @@ It is based on the work of **@TOR968**—massive thanks to him for his contribut
 - [CSWatch](https://cswat.ch) - website with stats for CS2 players
 - [Tor968's original plugin](https://github.com/TOR968/leetify-extension)
 
-
 ## License
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
